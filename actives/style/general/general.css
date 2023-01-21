@@ -1,0 +1,21 @@
+body{
+    background-color:hsl(0, 0%, 7%);
+    font-family:Roboto,Arial,sans-serif;
+    margin: 0;
+    /* padding-top: 77px;
+    padding-left: 80px;
+    padding-right: 10px; */
+}
+a{
+    text-decoration: none;
+}
+p{
+    color: #f1f1f1;
+    overflow:hidden;
+    text-overflow:ellipsis;
+}
+.Youtube_clone{
+    padding-top: 57px;
+    padding-left: 64px;
+    min-width: 450px;
+}
