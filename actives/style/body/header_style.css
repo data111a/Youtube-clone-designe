@@ -49,6 +49,7 @@ button{
     flex: 1;
     width: 0px;
     padding-left: 15px;
+    color: white;
 }
 .search_input::placeholder{
     font-weight: 500;
